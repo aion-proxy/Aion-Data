@@ -1,2 +1,2 @@
-int32 SessionId
-byte unk # writeB(new byte[35]);
+xxx SessionId
+xxx unk
