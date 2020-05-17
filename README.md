@@ -1,4 +1,4 @@
-# protocol data. Reference parser can be found at [aiom-data-parser](https://github.com/aion-proxy/aion-data-parser).
+# protocol data. Reference parser can be found at [aion-data-parser](https://github.com/aion-proxy/aion-data-parser).
 
 ## Contained files
 `map`
